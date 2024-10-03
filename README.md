@@ -1,1 +1,2 @@
 # On_spot_mechanic
+On-Spot Mechanic is a mobile app that provides efficient roadside assistance.The app is built using flutter and firebase.The aim of the app is to connect the users with nearby mechanics within a 5km radius in case of vehicle related issues like breakdown,engine failure,flat tyre etc. The app features a user-friendly map, a helpful chatbot, secure communication, and a convenient alert system. Users can find and contact mechanics quickly, ensuring prompt assistance for vehicle-related issues.
